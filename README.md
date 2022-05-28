@@ -1,0 +1,1 @@
+Execute `git clone`, `npm install` and run `npm start`
